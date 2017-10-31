@@ -7,3 +7,7 @@
 
 Git and github
 SSH
+HTML
+CSS
+Font Awesome
+Google Fonts
